@@ -1,0 +1,54 @@
+.body{
+background-color: rgb(11, 53, 11);
+color: white;
+text-align: center;
+padding: 40px;
+margin:10px;
+border: 1px solid black;
+}
+.search{
+text-align: center;
+}
+.input{
+padding: 10px;
+border: 1px solid black;
+margin: 20px;
+width:250px;
+text-align: center;
+}
+.container1{
+display: flex;
+flex-wrap: wrap;
+justify-content: center;
+gap: 20px;
+}
+.card{
+border: 1px solid black;
+padding: 4px;
+text-align: center;
+background-color: white;
+width: 250px;
+margin:80px;display: inline-block;
+height: 200px;
+}
+
+
+
+.buy{
+ background-color: rgb(11, 53, 11);
+color: white;
+border: none;
+padding: 6px 10px;
+}
+.cart{
+    background: rgb(11, 53, 11);
+    border:none;
+    padding: 6px 10px;
+    cursor: pointer;
+    color: white;
+}
+.price{
+    color:red;
+}
+
+
